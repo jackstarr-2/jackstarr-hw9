@@ -29,7 +29,3 @@
 .tooltip:hover .tooltiptext {
   visibility: visible;
 }
-
-body {
-  border: 5px solid red;
-}
