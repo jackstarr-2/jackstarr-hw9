@@ -29,3 +29,8 @@
 .tooltip:hover .tooltiptext {
   visibility: visible;
 }
+
+body {
+  text-align: center;
+  background-color: beige;
+}
